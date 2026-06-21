@@ -25,7 +25,7 @@ Default rate is 8% (imbalanced).
 - `notebooks/` — EDA and model training
 
 ## Live App
-[Streamlit link — add after deploying]
+Streamlit link — (https://home-credit-default-risk-mqxeq9ckzgd3czqtbeys23.streamlit.app/)
 
 ## Demo Video
 [Video link — add after recording]
